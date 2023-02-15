@@ -1,0 +1,84 @@
+MODULE:1 (SDLC)
+
+
+
+
+----------
+-What is software? What is software engineering?-
+
+>Software
+ 
+ - Software is a set of instructions, data or programs used to operate computers and execute specific tasks. 
+ - Software is a generic term used to refer to applications, scripts and programs that run on a device.
+ - An application is software that fulfills a specific need or performs tasks.
+ - Early software was written for specific computers and sold with the hardware it ran on.
+ 
+
+>Software engineering
+
+- Software engineering is defined as a process of analyzing user requirements and then designing, building, and testing software application which will satisfy those requirements.
+
+----------
+
+-Explain types of software
+
+  - Application software
+  - System software 
+  - Driver software
+  - Middleware software
+  - Programming software 
+
+
+----------
+
+-What is SDLC? Explain each phase of SDLC
+    
+      - The software Development Life Cycle (SDLC) refers to a methodology with clearly defined processes for creating high-quality software.
+      
+       1. Requirement Gathering
+       2. Analysis
+       3. Designing
+       4. Implementation
+       5. Testing
+       6. Maintenance
+
+
+----------
+
+-What is DFD? create a DFD diagram on Flipkart
+
+	- A data-flow diagram is a way of representing a flow of data through a process or a system (usually an information system ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
