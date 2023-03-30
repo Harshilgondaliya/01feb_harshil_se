@@ -1,22 +1,36 @@
-// Write a program to mack simple calculator//
-#include<stdio.h>
-void main()
+//WAP to make simple calculator (operation include addition,subtraction,multiplication,division)
+#include <stdio.h>
+int main()
 {
-    int a,b;
-    float div;
-    int ans;
-    printf("enter the value:");
-    scanf("%d%d",&a,&b);
-    ans=a+b;
-    printf("2 numbers addition:%d",ans);
-    ans=a-b;
-    printf("\nsubstration of 2 numbers: %d",ans);
-    ans=a*b;
-    printf("\nmultiplication of 2 numbers: %d",ans);
-    div=(float)a/(float)b;
-    printf("\ndivision of 2 numbers: %f",div);
-    ans=a%b;
-    printf("\nmodulo of 2 numbers: %d",ans);
-   
+    int a, b, count, ans;
+    printf("\n1.+\n2.-\n3./\n4.*");
+    printf("\nEnter First Value :");
+    scanf("%d", &a);
+    printf("\nchoose any one :");
+    scanf("%d", &count);
+    printf("\nEnter Second Value :");
+    scanf("%d", &b);
 
+    switch (count)
+    {
+    case 1:
+        printf("\n %d + %d = %d", a, b, a + b);
+        break;
+
+    case 2:
+        printf("\n %d - %d = %d", a, b, a - b);
+        break;
+
+    case 3:
+        printf("\n %d / %d = %d", a, b, a / b);
+        break;
+
+    case 4:
+        printf("\n %d * %d = %d", a, b, a * b);
+        break;
+
+    default:
+        printf("\n Not Available");
+        break;
+    }
 }
