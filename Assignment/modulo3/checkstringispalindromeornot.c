@@ -1,26 +1,27 @@
 // WAP to reverse a string and check that the string is palindrome or not
-#include <stdio.h>
-#include <string.h>
+#include<stdio.h>
+#include<string.h>
 int main()
 {
-    char input[30], reverse[30];
-    // massage pass to user
-    printf("Enter word check Palindrome or not :");
-    // to store value
-    scanf("%s", &input);
-    
+    char in[20];
+    char rev[20];
+    // pass massage to user 
+    printf("enter the word to check palindrome or not : ");
+    scanf("%s",&in);
+
     // string copy
-    strcpy(reverse, input);
+    strcpy(rev,in);
 
-    // string revers
-    strrev(reverse);
+    // string reverse
+    strrev(rev);
 
-    if (strcmp(input, reverse) == 0)
+    if (strcmp(in,rev) == 0)
     {
-        printf("%s is palindrome",input);
+        printf("%s is palindrome.",in);
     }
     else
     {
-        printf("%s is not palindrome",input);
+        printf("%s is not palindrome.",in);
     }
+    
 }
