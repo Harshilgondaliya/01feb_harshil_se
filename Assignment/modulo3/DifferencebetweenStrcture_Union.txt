@@ -1,0 +1,33 @@
+// WAP to show difference between Structure and Union
+
+< STRUCTURE >
+
+                > The keyword (struct) is used to define a Structure.
+
+                > Consume more space thane union.
+
+                > Each member within a structure is assigned unique storage area of location.
+
+                > Altering the value of member will not affect other members of the structure.
+
+                > Individual member can be accessed at a time.
+
+                > Several member of a structure can initialize at once.
+
+
+
+
+< UNION >
+
+                > The keyword (union) is used to define a union.
+
+                > Consume less space than structure.
+
+                > Memory allocated is shared by individual members of union.
+
+                > Altering the value of any of the member will alter other member values.
+
+                > Only one member can be accessed at a time.
+
+                > Only the first member of a union can be initialized.
+                
