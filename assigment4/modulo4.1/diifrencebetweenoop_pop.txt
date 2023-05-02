@@ -1,0 +1,42 @@
+// What is Deference between OOP & POP ?
+
+
+|| OOP ||
+
+-> Programs are divided into parts known as objects.
+
+-> The main focus of OOP is on the data.
+
+-> It follows bottom-up approach.
+
+-> It has access specifiers such as public,private etc.
+
+-> It provides data hiding,data associated with the program.so security is provide.
+
+-> Ease of modification.
+
+-> Examples : java,perl
+
+
+
+
+------------------------------------------
+
+
+|| POP ||
+
+-> In this programs are divided into function.
+
+-> The main focus of POP is on the procedures.
+
+-> It follows top-down approach.
+
+-> In this most functions use global data.
+
+-> POP dose not have any access specifiers.
+
+-> POP dose not provide any data security.
+
+-> Modification is difficult.
+
+-> Examples : C,COBOL etc..
