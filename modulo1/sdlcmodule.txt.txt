@@ -1,0 +1,63 @@
+[ 1 ]
+
+----> What is software? What is software engineering?
+
+<< SOFTWARE >>
+
+-> Software is a set of instructions, data or programs used to operate computers and execute specific tasks.
+-> Software is combination of instruction , information and data.
+
+<< SOFTWARE ENGINEERING >>
+
+-> Software engineering is defined as a process of analyzing user requirements and then designing, building, and testing software application which will satisfy those requirements.
+
+
+[ 2 ]
+
+----> Explain types of software:
+
+-> Five types of software.
+
+    1. system software
+    2. application software
+    3. programming software
+    4. driver software
+    5. middleware software
+
+
+[ 3 ]
+
+----> What is SDLC ? Explain each phaser of SDLE.
+
+-> SDLC known as a software development life cycle.
+-> Software Development Lifes cycle refers to a methodology with clearly defined processes for creating high-quality software.
+-> there are six phase of SDLC:
+
+    1. Planning
+    2. Analysis
+    3. Design
+    4. Implementation
+    5. Testing
+    6. Maintenance
+
+        
+          1 - Planning:       planning phase is all about what and which type of software client want. as a soft. developer we will gather the requirements of clients
+                              like which type of software they want, who is going to use the system, what types of data should be input into the system, what type of 
+                              data should be output by system, what will be the design etc. "AND YEAH DON'T FORGET TO DISSCUS ABOUT MONEY":)   
+
+          2 - Analysis:       After requirment gathering these requirements are analyzed for their validity and the system to be development is also studied, inshort 
+                              we'll make a BLUE PRINT of a Software.
+    
+          3 - Design:         Software design is prepared from the requirements specifications which were discuss in the planning phase. design should be user friendly.
+                              System design helps in specifying hardware and system requirements and also helps in defining overall system architecture. The system
+                              design specification server as input for the next phase of the model.
+
+          4 - Implementation: On receiving system design documents, the work is divided in modules/units and actual coding is started. since, in this phase the code is 
+                              produced so it is the main focus for the developer. this is the longest phase of the software development life cycle.
+
+          5 - Testing:        After the code is developed it is tested  against the requirements to make sure that the product is actually solving the needs addressd and
+                              gathere during the requirements phase. During this phase all types of functional testing like unit testing, integration testing, system testing,
+                              acceptence testing are done as well as nonfunctional testing are also done.
+
+         6 - Maintenance:     Once when the customers starts using the developed system then the actual problems comes up and needs to be solved from time to time. 
+                              This process where the care is taken for the developed product is known as maintenance.
