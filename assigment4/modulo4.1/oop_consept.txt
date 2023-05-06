@@ -1,5 +1,0 @@
-// What is OOP? List oop concept.
-
--> OOP stands for " Objects Oriented Programming ".
-
--> 
