@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table</title>
+    <style>
+        table ,tr ,th ,td{
+            border: 1px solid black;
+            border-collapse: collapse;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <caption>RESULT</caption>
+        <table>
+            <tr style="color: red;">
+                <th>No</th>
+                <th>Name</th>
+                <th>Marks</th>
+                <th>Result</th>
+            </tr>
+            <tr style="color: blue;">
+                <td>1</td>
+                <td>Meet</td>
+                <td>55</td>
+                <td rowspan="3"style="color: silver;">Pass</td>
+            </tr>
+            <tr style="color: green;">
+                <td>2</td>
+                <td>Harsh</td>
+                <td>76</td>
+                <!--<td>Pass</td>-->
+            </tr>
+            <tr style="color: cornflowerblue;">
+                <td>3</td>
+                <td>Raj</td>
+                <td>65</td>
+                <!--<td>Pass</td>-->
+            </tr>
+            <tr style="color: brown;">
+                <td colspan="4">Total 3</td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
